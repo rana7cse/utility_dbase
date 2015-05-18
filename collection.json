@@ -1,39 +1,39 @@
 {
-    resource : {
-        'design' : [
+    "resource" : {
+        "design" : [
             {
-                'name':'freepik',
-                'info':'More than a million free vectors, PSD, photos and free icons',
-                'url':'http://www.freepik.com/',
-                'tag':['psd','graphics','photoshop','vector'],
-                'cat':'graphics'
+                "name":"freepik",
+                "info":"More than a million free vectors, PSD, photos and free icons",
+                "url":"http://www.freepik.com/",
+                "tag":["psd","graphics","photoshop","vector"],
+                "cat":"graphics"
             },
             {
-                'name':'freepik',
-                'info':'More than a million free vectors, PSD, photos and free icons',
-                'url':'http://www.freepik.com/',
-                'tag':['psd','graphics','photoshop','vector'],
-                'cat':'graphics'
+                "name":"freepik",
+                "info":"More than a million free vectors, PSD, photos and free icons",
+                "url":"http://www.freepik.com/",
+                "tag":["psd","graphics","photoshop","vector"],
+                "cat":"graphics"
             },
             {
-                'name':'freepik',
-                'info':'More than a million free vectors, PSD, photos and free icons',
-                'url':'http://www.freepik.com/',
-                'tag':['psd','graphics','photoshop','vector'],
-                'cat':'graphics'
+                "name":"freepik",
+                "info":"More than a million free vectors, PSD, photos and free icons",
+                "url":"http://www.freepik.com/",
+                "tag":["psd","graphics","photoshop","vector"],
+                "cat":"graphics"
             }
         ],
         
-        'development' :[
+        "development" :[
             {
-                'name':'freepik',
-                'info':'More than a million free vectors, PSD, photos and free icons',
-                'url':'http://www.freepik.com/',
-                'tag':['psd','graphics','photoshop','vector'],
-                'cat':'graphics'
+                "name":"freepik",
+                "info":"More than a million free vectors, PSD, photos and free icons",
+                "url":"http://www.freepik.com/",
+                "tag":["psd","graphics","photoshop","vector"],
+                "cat":"graphics"
             }
         ]
     },
     
-    tag : ['php','mysql','javascript','psd','icon','blog','course','tutorial','bangla','graphics','photoshop','vector']
+    "tag": ["php","mysql","javascript","psd","icon","blog","course","tutorial","bangla","graphics","photoshop","vector"]
 }
