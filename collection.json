@@ -9,18 +9,18 @@
                 "cat":"graphics"
             },
             {
-                "name":"freepik",
-                "info":"More than a million free vectors, PSD, photos and free icons",
-                "url":"http://www.freepik.com/",
-                "tag":["psd","graphics","photoshop","vector"],
-                "cat":"graphics"
+                "name":"Biginners Guide For CSS Animation",
+                "info":"Biginners Guide For CSS Animation",
+                "url":"https://robots.thoughtbot.com/css-animation-for-beginners",
+                "tag":["Web Design","css","css animation"],
+                "cat":"Front End"
             },
             {
-                "name":"freepik",
-                "info":"More than a million free vectors, PSD, photos and free icons",
-                "url":"http://www.freepik.com/",
-                "tag":["psd","graphics","photoshop","vector"],
-                "cat":"graphics"
+                "name":"upcase",
+                "info":"Web Design Resource, Front end Resource",
+                "url":"https://upcase.com/design",
+                "tag":["Web Design","Front End Resource","Tutorials"],
+                "cat":"Front End"
             }
         ],
         
