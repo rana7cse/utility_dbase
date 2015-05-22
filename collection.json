@@ -21,6 +21,13 @@
                 "url":"https://upcase.com/design",
                 "tag":["Web Design","Front End Resource","Tutorials"],
                 "cat":"Front End"
+            },
+            {
+                "name" : "Js Chart",
+                "info" : "Javascript Graphical Chart Represent",
+                "url" : "http://www.jsgraphs.com/",
+                "tag" : ["web design","front end resource","javascript"],
+                "cat" : "Front End"
             }
         ],
         
@@ -30,6 +37,13 @@
                 "info":"More than a million free vectors, PSD, photos and free icons",
                 "url":"http://www.freepik.com/",
                 "tag":["psd","graphics","photoshop","vector"],
+                "cat":"graphics"
+            },
+            {
+                "name":"Crud Generator",
+                "info":"Open source CRUD Framework for PHP/MySQL",
+                "url":"http://crudkit.com/",
+                "tag":["php","html","php freamwork","laravel"],
                 "cat":"graphics"
             }
         ]
