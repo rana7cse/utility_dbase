@@ -28,7 +28,15 @@
                 "url" : "http://www.jsgraphs.com/",
                 "tag" : ["web design","front end resource","javascript"],
                 "cat" : "Front End"
+            },
+            {
+                "name" : "Web Design Repo",
+                "info" : "webdesignrepo is a curated collection of helpful links from around the web. Primarily the repo is for webdesign links, but there is a large overlap with web development and graphic design",
+                "url" : "http://www.webdesignrepo.com/",
+                "tag" : ["web design","front end resource","javascript"],
+                "cat" : "Web Design Repository"
             }
+            
         ],
         
         "development" :[
