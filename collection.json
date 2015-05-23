@@ -35,6 +35,13 @@
                 "url" : "http://www.webdesignrepo.com/",
                 "tag" : ["web design","front end resource","javascript"],
                 "cat" : "Web Design Repository"
+            },
+            {
+                "name" : "The Shapes of CSS",
+                "info" : "The Shapes of CSS",
+                "url" : "https://css-tricks.com/examples/ShapesOfCSS/",
+                "tag" : ["css","front end resource"],
+                "cat" : "Resource"
             }
             
         ],
