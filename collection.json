@@ -50,16 +50,16 @@
             {
                 "name":"freepik",
                 "info":"More than a million free vectors, PSD, photos and free icons",
-                "url":"http://www.freepik.com/",
-                "tag":["psd","graphics","photoshop","vector"],
-                "cat":"graphics"
+                "url":"http://tutorialzine.com/2015/05/15-awesome-and-free-javascript-books/",
+                "tag":["programming","javascript","jquery"],
+                "cat":"programming"
             },
             {
                 "name":"Crud Generator",
                 "info":"Open source CRUD Framework for PHP/MySQL",
                 "url":"http://crudkit.com/",
                 "tag":["php","html","php freamwork","laravel"],
-                "cat":"graphics"
+                "cat":"development"
             }
         ]
     },
