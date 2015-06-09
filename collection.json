@@ -42,6 +42,13 @@
                 "url" : "https://css-tricks.com/examples/ShapesOfCSS/",
                 "tag" : ["css","front end resource"],
                 "cat" : "Resource"
+            },
+            {
+                "name" : "pixelkit",
+                "info" : "free-ui-kits",
+                "url" : "http://pixelkit.com/free-ui-kits/modern-touch/",
+                "tag" : ["css","ui","frontend"],
+                "cat" : "Resource"
             }
             
         ],
