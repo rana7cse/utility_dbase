@@ -55,10 +55,10 @@
         
         "development" :[
             {
-                "name":"freepik",
-                "info":"More than a million free vectors, PSD, photos and free icons",
-                "url":"http://tutorialzine.com/2015/05/15-awesome-and-free-javascript-books/",
-                "tag":["programming","javascript","jquery"],
+                "name":"The JavaScript Tutorial",
+                "info":"Ilya Kantor JavaScript Tutorial",
+                "url":"http://javascript.info/",
+                "tag":["programming","javascript"],
                 "cat":"programming"
             },
             {
