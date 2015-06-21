@@ -67,6 +67,13 @@
                 "url":"http://crudkit.com/",
                 "tag":["php","html","php freamwork","laravel"],
                 "cat":"development"
+            },
+            {
+                "name":"Learning Regular Expressions",
+                "info":"The most important part is the concepts",
+                "url":"http://stackoverflow.com/questions/4736/learning-regular-expressions",
+                "tag":["regex","stackoverflow","validiation"],
+                "cat":"development"
             }
         ]
     },
