@@ -56,6 +56,20 @@ json = {
                 "url":"https://desandro.github.io/3dtransforms/",
                 "tag":["css3d","3D","transforms"],
                 "cat":"design"
+            },
+            {
+                "name":"Top 10 Free Icon Fonts ",
+                "info":"Top 10 Free Icon Fonts ",
+                "url":"http://www.webpop.com/blog/2013/05/08/top-10-free-icon-fonts",
+                "tag":["css","font","icon"],
+                "cat":"design"
+            },
+            {
+                "name":"best icon fonts css",
+                "info":"best icon fonts css",
+                "url":"https://css-tricks.com/flat-icons-icon-fonts/",
+                "tag":["icon","css","font"],
+                "cat":"design"
             }
 
         ],
@@ -81,6 +95,13 @@ json = {
                 "url":"http://stackoverflow.com/questions/4736/learning-regular-expressions",
                 "tag":["regex","stackoverflow","validiation"],
                 "cat":"development"
+            },
+            {
+                "name":"Material Design Iconic Font",
+                "info":"Material Design Iconic Font is a full suite of material design icons (created and maintained by Google) for easy scalable vector graphics on websites.",
+                "url":"http://zavoloklom.github.io/material-design-iconic-font/",
+                "tag":["font","css","design"],
+                "cat":"design"
             }
         ]
     },
